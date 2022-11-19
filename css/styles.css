@@ -1,4 +1,17 @@
 body {
+    box-sizing: border-box;
     background-color: teal;
-    color: turquoise;
+    color: green;
+}
+
+.sec {
+    display: flex;
+    gap: 15px;
+}
+
+.container {
+    padding: 25px;
+    background-color: gold;
+    border: 0 solid transparent;
+    border-radius: 5px;
 }
